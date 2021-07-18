@@ -209,11 +209,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color:  #6897bb;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color:  #6897bb;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7353,7 +7353,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #bd5d38 !important;
+  color: #6897bb !important;
 }
 
 .text-secondary {
@@ -7409,7 +7409,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #6897bb !important;
 }
 
 .bg-secondary {

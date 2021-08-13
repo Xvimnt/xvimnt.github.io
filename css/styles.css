@@ -4071,6 +4071,7 @@ textarea.form-control-lg {
   .navbar-expand-sm .navbar-toggler {
     display: none;
   }
+  
 }
 @media (min-width: 768px) {
   .navbar-expand-md {
@@ -4176,6 +4177,7 @@ textarea.form-control-lg {
     display: none;
   }
 }
+
 .navbar-expand {
   flex-wrap: nowrap;
   justify-content: flex-start;
@@ -7411,6 +7413,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   background-color: #072538ad !important;
+  
 }
 
 .bg-secondary {
@@ -10996,5 +10999,11 @@ section.resume-section .resume-section-content {
     padding-right: 3rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .bg-primary {
+    background-color: #072538 !important;
   }
 }
